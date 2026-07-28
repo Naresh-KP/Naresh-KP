@@ -8,7 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Python+Developer;Django+Backend+Developer;JavaScript+Developer;Engineering+Software+Builder;SVG+Visualization+Developer;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=Naresh-KP&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
