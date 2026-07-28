@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Naresh%20K%20P&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20JavaScript&descAlign=50&descAlignY=62"/>
 
-# Hi 👋 I'm Naresh K P
+# 👋 Hi, I'm Naresh K P
 
-### 🚀 Full-Stack Developer • Software Engineer • Engineering Visualization Enthusiast
+### 🚀 Full Stack Developer | Engineering Graduate | Engineering Software Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Engineering+Graduate;Full-Stack+Developer;Building+Engineering+Software;Python+%7C+Django+%7C+JavaScript;SVG+Graphics+%26+Engineering+Visualization;Turning+Mathematics+into+Interactive+Software;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Python+Developer;Django+Backend+Developer;JavaScript+Developer;Engineering+Software+Builder;SVG+Visualization+Developer;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=Naresh-KP&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Naresh-KP&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -16,70 +16,63 @@
 
 # 💫 About Me
 
-I am an **Engineering Graduate** passionate about designing software that solves practical engineering problems.
+```python
+class NareshKP:
 
-My primary interest lies in developing applications that combine **mathematics, engineering principles, and modern web technologies** to create fast, interactive, and user-friendly tools.
+    education = "B.E. Computer Science"
 
-I enjoy building applications that transform engineering calculations into real-time visual representations while maintaining clean architecture and high performance.
+    role = "Full Stack Developer"
 
-### 🚀 Current Focus
+    location = "India"
 
-- 🔭 Building **Steel Engineering Blueprint Suite**
-- 📐 Interactive 2D Engineering Drawing Generator
-- ⚡ Dynamic Material Estimation System
-- 📊 SVG-based Engineering Visualization
-- 🖨️ High Quality Print & PDF Optimization
-- 🌐 Modern Full Stack Web Applications
-- 🤖 Exploring AI-powered Engineering Automation
+    skills = [
+        "Python",
+        "Django",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Java",
+        "C",
+        "MySQL"
+    ]
 
----
+    interests = [
+        "Engineering Software",
+        "Automation",
+        "SVG Graphics",
+        "Interactive Visualization",
+        "Problem Solving"
+    ]
 
-# 🧠 What I Do
+    current_project = "Steel Engineering Blueprint Suite"
 
-### ⚙️ Engineering Software
+    learning = [
+        "Machine Learning",
+        "TensorFlow",
+        "Software Architecture",
+        "System Design"
+    ]
 
-- Engineering Calculation Systems
-- Steel Blueprint Generation
-- Material Estimation
-- Mechanical Geometry Visualization
-- Engineering Workflow Automation
-
----
-
-### 💻 Full Stack Development
-
-- Responsive Web Applications
-- REST APIs
-- Authentication Systems
-- Dashboard Development
-- Database Design
-- Deployment & Hosting
-
----
-
-### 🎨 Frontend Engineering
-
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Dynamic SVG Rendering
-- Interactive UI
-- Canvas & Graphics
-- Performance Optimization
-- Print Layout Engineering
+    motto = "Build practical software that solves real-world problems."
+```
 
 ---
 
-### 🛠 Backend Development
+# 🚀 Current Project
 
-- Python
-- Django
-- Node.js
-- MySQL
-- REST APIs
-- Authentication
-- Business Logic
-- Data Processing
+## 🏗 Steel Engineering Blueprint Suite
+
+An engineering workspace built with HTML, CSS, JavaScript and Python to automate engineering calculations and generate dynamic technical drawings.
+
+### Features
+
+- 📐 Dynamic SVG Engineering Drawings
+- ⚙ Material Estimation
+- 📊 Engineering Calculations
+- 🖨 Print-ready Reports
+- ⚡ Zero Dependency Design
+- 🎯 Interactive UI
+- 📈 High Performance Rendering
 
 ---
 
@@ -88,150 +81,162 @@ I enjoy building applications that transform engineering calculations into real-
 - Artificial Intelligence
 - Machine Learning
 - TensorFlow
-- Data Analytics
-- Cloud Computing
-- System Design
 - Advanced Django
-- DevOps
-- Docker
-- CI/CD
+- REST APIs
 - Software Architecture
+- System Design
+- Backend Optimisation
 
 ---
 
 # 💻 Tech Stack
 
-## Programming Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+### Languages
 
----
+<img src="https://skillicons.dev/icons?i=python,java,js,c"/>
 
-## Frontend
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css"/>
 
----
+### Backend
 
-## Backend
+<img src="https://skillicons.dev/icons?i=django,nodejs"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+### Database
 
----
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-## Database
+### Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
----
-
-## AI & ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
----
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-
----
-
-# 🚀 Featured Project
-
-## 🏗 Steel Engineering Blueprint Suite
-
-An open-source engineering workspace built with pure web technologies.
-
-### Features
-
-✅ Dynamic 2D Engineering Drawings
-
-✅ Automatic Material Estimation
-
-✅ SVG Blueprint Generator
-
-✅ Engineering Calculations
-
-✅ Print Optimized Reports
-
-✅ Zero Dependency Architecture
-
-✅ High Performance Rendering
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naresh-KP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naresh-KP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naresh-KP&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Naresh-KP&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-KP&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naresh-KP&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naresh-KP&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naresh-KP&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Naresh-KP&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 📋 GitHub Summary Cards
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naresh-KP&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naresh-KP&theme=tokyonight"/>
 
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naresh-KP&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naresh-KP&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful engineering software
+- 🌍 Contribute to Open Source
+- 📚 Master Django Backend Development
+- 🤖 Explore AI-assisted applications
+- 📈 Improve System Design skills
+- ⚡ Build scalable web applications
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/naresh-kp">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nareshkp4727@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💡 Philosophy
+# 💬 Developer Quote
 
-> *"Great software isn't just written—it is engineered with precision, performance, and purpose."*
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below to generate this automatically.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Naresh-KP/Naresh-KP/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+- 💡 I enjoy solving engineering problems with software.
+- 📐 I like converting mathematical formulas into interactive visualisations.
+- 🧠 I enjoy learning new technologies through real projects.
+- 🚀 I believe clean code and simple design create the best software.
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a Star to my repositories.
+## ⭐ Thanks for visiting my profile!
 
-*"Building software that bridges engineering and technology."*
+*"Building software that connects engineering with modern technology."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:2c5364,50:203a43,100:0f2027"/>
 
 </div>
