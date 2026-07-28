@@ -56,8 +56,6 @@ class NareshKP:
     motto = "Build practical software that solves real-world problems."
 ```
 
----
-
 # 🚀 Current Project
 
 ## 🏗 Steel Engineering Blueprint Suite
@@ -117,7 +115,6 @@ An engineering workspace built with HTML, CSS, JavaScript and Python to automate
 
 ---
 
----
 # 🌐 Connect With Me
 
 <div align="center">
